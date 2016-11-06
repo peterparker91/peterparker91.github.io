@@ -993,6 +993,7 @@ form.bs-docs-example {
 ------------------------- */
 @media (max-width: 480px) {
   /* Remove padding above jumbotron */
+  
   body {
     padding-top: 0;
   }
