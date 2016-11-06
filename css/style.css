@@ -1,0 +1,298 @@
+.navbar .navbar-inner {
+	margin-left: -20px;
+	margin-right: -20px;
+}
+
+.input-prepend .add-on:first-child, .input-prepend .btn:first-child {
+	border-radius: 0;
+}
+
+ul {
+/* 	margin-left: 0; */
+}
+
+.archetypes h2.section-title {
+	padding-top: 50px;
+}
+
+.navbar img {
+  height:20px;
+  padding: 10px 15px;
+  float: left;
+}
+
+.com {
+  color: #93a1a1;
+}
+
+.lit {
+  color: #195f91;
+}
+
+.pun, .opn, .clo {
+  color: #93a1a1;
+}
+
+.fun {
+  color: #dc322f;
+}
+
+.str, .atv {
+  color: #D14;
+}
+
+.kwd, .prettyprint .tag {
+  color: #1e347b;
+}
+
+.typ, .atn, .dec, .var {
+  color: teal;
+}
+
+.pln {
+  color: #48484c;
+}
+
+.prettyprint {
+  padding: 8px;
+  background-color: #f7f7f9;
+  border: 1px solid #e1e1e8;
+  font-size: 10px;
+  line-height: 14px;
+}
+
+
+
+ol.linenums {
+  margin: 0 0 0 33px; /* IE indents via margin-left */
+}
+
+ol.linenums li {
+  padding-left: 12px;
+  color: #bebec5;
+  line-height: 20px;
+  text-shadow: 0 1px 0 #fff;
+}
+
+p.intro-header {
+  font-size: 32px;
+  font-weight: lighter;
+  line-height: normal;
+}
+
+ul.icons-list li.icons-item {
+  width: 32%;
+  float: left;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 5px;
+  margin-bottom: 2px;
+  font-weight: bold;
+  margin-left: 3px;
+}
+
+ul.icons-list li.icons-item i {
+  display: inline-block;
+  float: right;
+  margin-right: 40px;
+}
+
+ul.icons-list li.icons-item.git {
+	background-color: #cc0000;
+	color: white;
+}
+
+ul.icons-list li.icons-item.mnav {
+	background-color: #100F0F;
+	color: white;
+}
+
+
+ul.elements {
+  list-style: none;
+}
+
+.sub-lead {
+    color: #5A5A5A;
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 24px;
+    margin-bottom: 24px;
+}
+
+.code-reference section > p {
+    background-color: #F7F2F2;
+    border-left: 1px solid #DDDDDD;
+    border-right: 1px solid #DDDDDD;
+    border-top: 1px solid #DDDDDD;
+    margin-bottom: -15px;
+    margin-top: 0;
+    padding: 15px 5px;
+}
+
+ul.colour-list {
+  
+}
+
+ul.colour-list li.colour-item {
+  width: 32%;
+  float: left;
+  list-style: none;
+  margin-left: 0;
+  margin-top: 10px;
+}
+
+ul.colour-list li.colour-item div {
+  font-size:14px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+ul.colour-list li.colour-item div.colour-pallet {
+  display: inline-block;
+/*   float: right; */
+  margin-right: 25px;
+  margin-top: 5px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+  text-align: left;
+  width: 60px;
+  border: 1px solid 999494;
+ height: 80px;
+ width: 80px;
+ text-align: left;
+ padding: 5px;
+ font-size: 12px;
+  
+  -webkit-box-shadow: 0 1px 4px rgba(180,180,180,5);
+     -moz-box-shadow: 0 1px 4px rgba(180,180,180,5);
+          box-shadow: 0 1px 4px rgba(180,180,180,5);
+}
+
+ul.colour-list li.colour-item div.colour-pallet.light-text {
+ color:white;
+}
+
+
+.image-container {  
+  margin-top: 40px;
+  text-align: center;
+}
+
+.inner-container {
+  position: relative;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.templates ul  {
+  margin-left: 20px;
+}
+
+.templates ul li {
+  line-height: 24px;
+  font-size: 18px;
+}
+
+div.component, div.template {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+}
+
+.components section .row {
+  margin-top: 20px;
+}
+
+.thumbnail-grid>div.thumbnail {
+  float: left;
+  width: 177px;
+  height: 170px;
+  margin-right: 40px;
+  margin-bottom: 10px;
+  border:0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -webkit-transition: none;
+  padding: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
+
+.thumbnail-grid>div.thumbnail img {
+  max-width: 177px;
+  max-height: 130px;
+  outline: 1px solid #ddd;
+}
+
+
+.thumbnail-grid>div.thumbnail .title {
+  margin-bottom: 5px;
+  /*text-align: center;*/
+}
+
+.example_image img {
+  outline: 1px solid #ddd;
+}
+
+.example_title {
+  margin-bottom: 5px;
+}
+
+.bs-docs-example::after {
+  content: none;
+}
+
+#what-drives-us h3, #our-design-principles h3 {
+  text-transform: uppercase;
+}
+
+.design-principle-number {
+  color: rgb(240, 170, 170);
+  font-size: 150px;
+  line-height: 140px;
+  font-weight: bold;
+}
+
+
+.modal {
+  left: 50%;
+  z-index: 1050;
+  width: 900px;
+  margin-left: -450px; 
+}
+
+.span12.page-header h1 {
+  margin-left: 20px;
+}
+
+.control-group .pagination ul > li:first-child > a, .pagination ul > li:first-child > span {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+
+.control-group .pagination ul > li:last-child > a, .pagination ul > li:last-child > span {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+
+
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .dropdown-menu>.active>a:focus {
+  background-image:none;
+}
+
+.navbar-inverse .nav .active>a, .navbar-inverse .nav .active>a:hover, .navbar-inverse .nav .active>a:focus { 
+  background-color: inherit;
+  color: #cc0000;
+}
+
+ul.bs-docs-sidenav li a {
+  padding: 4px 15px;
+}
