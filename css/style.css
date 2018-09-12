@@ -15,12 +15,11 @@ ul {
 	padding-top: 50px;
 }
 
-.navbar img {
+.navbar img, .navbar svg {
   height:20px;
   padding: 10px 15px;
   float: left;
 }
-
 .com {
   color: #93a1a1;
 }
